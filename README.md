@@ -1,6 +1,6 @@
 # MohammedAbukwaik 👋
 
-### مطور ويب وفول ستاك | Frontend & Backend Developer
+### مطور ويب فل ستاك | Frontend & Backend Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-MohammedAbukwaik-181717?style=flat-square&logo=github)](https://github.com/MohammedAbukwaik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammedabukwaik)
@@ -9,7 +9,7 @@
 
 ## 🚀 عني
 
-مرحبا! أنا محمد أبو كوايك، **مطور ويب** متحمس لأحدث تقنيات تطوير الويب والتطبيقات. أخصص في:
+مرحبا! أنا محمد أبو كويك، **مطور ويب** متحمس لأحدث تقنيات تطوير الويب والتطبيقات. أخصص في:
 
 - **Frontend:** React, Next.js, TypeScript, TailwindCSS
 - **Backend:** Node.js, Express, Supabase, Firebase
